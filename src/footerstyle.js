@@ -8,6 +8,7 @@ export const FooterSection = styled.div`
    height:50vh;
    background-color:#14110f;
    border:0.5px solid #fb5607;
+   margin-bottom:0;
 
 `;
 export const FooterLogo = styled.div`

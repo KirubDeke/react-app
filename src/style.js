@@ -196,3 +196,5 @@ export const GenreDescription =styled.div`
   height:50px;
   color:white;
 `;
+export const Second =styled.div`
+`;

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { AppContainer, LogoContainer, NavigationContainer,QuoteStyle,MainContainer,BorderStyle,
-  MainBody,DiagonalLine,ImageStyle,SecondSection,LandingPage,SecondTitle,ListGenres,LineContent,Genres,GenreImg,GenreDescription,SectionMusic
+  MainBody,DiagonalLine,ImageStyle,SecondSection,LandingPage,SecondTitle,ListGenres,Second,LineContent,Genres,GenreImg,GenreDescription,SectionMusic
  } from './style';
 import { smallLogoStyles } from './style';
 import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
@@ -136,8 +136,14 @@ function App() {
         </Genres>
       </ListGenres>
     </SecondSection>
+
+    <Second id="musicPlayerSection">
+
+      </Second>
    
       </LandingPage>
+
+      
     
       
   
