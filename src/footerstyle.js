@@ -5,10 +5,9 @@ import styled from '@emotion/styled';
 
 export const FooterSection = styled.div`
   
-   height:50vh;
+   height:60vh;
    background-color:#14110f;
    border:0.5px solid #fb5607;
-   margin-bottom:0;
 
 `;
 export const FooterLogo = styled.div`
@@ -28,8 +27,8 @@ export const BottomNavigation = styled.div`
    
    ul{
     list-style-type:none;
-    padding: 0;
-    margin: 0;
+    padding: 20;
+    margin:0;
     
     li{
       display:inline;

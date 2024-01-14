@@ -22,7 +22,6 @@ function Footer(){
  <ul>
     <li><a href="#home">Home</a></li>
     <li><a href="#musicPlayerSection">Music</a></li>
-    <li><a href="#">My Library</a></li>
  </ul>
 </BottomNavigation>
 

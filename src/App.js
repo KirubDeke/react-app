@@ -45,9 +45,6 @@ function App() {
      <li>
            <a href="#musicPlayerSection">Music</a>
      </li>
-    <li>
-         <a href="#library">My Library</a>
-    </li>
 
     </ul>
         
